@@ -18,7 +18,7 @@ const Header = (props) => {
                     <div className="row">
                         <div className="col-md-2 col-sm-2">
                             <div className="logo">
-                                <a href="index.html"><img src="assets/images/logo/logo.jpg" alt="" /></a>
+                                <a href="index.html"><img style={{ height: 50 }} src="assets/images/logo/logo.png" alt="" /></a>
                             </div>
                         </div>
                         <div className="col-md-10 col-sm-10">
