@@ -1,0 +1,9 @@
+@media (min-width: 1366px) and (max-width: 1680px) {
+    .dropdown_search {
+        display: inline-block;
+        position: absolute;
+        right: 0;
+        top: 0px;
+        z-index: 9;
+    }
+}

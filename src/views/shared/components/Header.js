@@ -18,13 +18,13 @@ const Header = (props) => {
                     <div className="row">
                         <div className="col-md-2 col-sm-2">
                             <div className="logo">
-                                <a href="index.html"><img style={{ height: 50 }} src="assets/images/logo/logo.png" alt="" /></a>
+                                <a href="index.html"><img src="assets/images/logo/logo.jpg" alt="" /></a>
                             </div>
                         </div>
                         <div className="col-md-10 col-sm-10">
                             <div className="header_account_area">
                                 <div className="header_account_list search_list">
-                                    <a href="javascript:void(0)"><i className="ion-ios-search-strong"></i></a>
+                                    {/* <a href="javascript:void(0)"><i className="ion-ios-search-strong"></i></a> */}
                                     <div className="dropdown_search">
                                         <form action="#">
                                             <input
